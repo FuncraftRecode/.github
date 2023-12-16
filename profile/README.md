@@ -4,7 +4,7 @@ Bienvenue dans l'organisation FuncraftRecode ! 🚀
 
 ## À propos
 
-Funcraft Fun Recode est un projet communautaire dédié à la recréation du serveur Minecraft Funcraft pour le plaisir et l'apprentissage. Il est important de noter que notre projet n'est ni le serveur officiel Funcraft, ni affilié à Ascentia.
+FuncraftRecode est un projet communautaire dédié à la recréation du serveur Minecraft Funcraft pour le plaisir et l'apprentissage. Il est important de noter que notre projet n'est ni le serveur officiel Funcraft, ni affilié à Ascentia.
 
 ## Objectifs du Projet
 
