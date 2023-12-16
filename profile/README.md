@@ -2,7 +2,7 @@
 
 Bienvenue dans l'organisation FuncraftRecode ! 🚀
 
-> [!NOTE]
+## À propos
 
 FuncraftRecode est un projet communautaire dédié à la recréation du serveur Minecraft Funcraft pour le plaisir et l'apprentissage.
 
@@ -21,10 +21,10 @@ Contactez en privé sur Discord @shall0wer pour toute suggestion.
 - **FunServeur**: Serveur fonctionnel via un système de cloud [CloudNet-V3](https://cloudnetservice.eu/)
 - à venir...
 
-> [!IMPORTANT]
+## IMPORTANT
 
 FuncraftRecode n'est pas affilié à Ascentia et n'est en aucun cas associé au serveur Funcraft officiel. Ce projet est réalisé uniquement à des fins récréatives et éducatives.
 
 ---
 
-**Amusez-vous bien et happy coding!** 😄
+**Amusez-vous bien !** 😄
