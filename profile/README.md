@@ -23,7 +23,7 @@ Contactez en privé sur Discord @shall0wer pour toute suggestion.
 
 ## Avertissement
 
-Funcraft Fun Recode n'est pas affilié à Ascentia et n'est en aucun cas associé au serveur Funcraft officiel. Ce projet est réalisé uniquement à des fins récréatives et éducatives.
+FuncraftRecode n'est pas affilié à Ascentia et n'est en aucun cas associé au serveur Funcraft officiel. Ce projet est réalisé uniquement à des fins récréatives et éducatives.
 
 ---
 
