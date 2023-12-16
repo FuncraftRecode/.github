@@ -1,4 +1,4 @@
-# Funcraft Fun Recode
+# FuncraftRecode
 
 Bienvenue dans l'organisation FuncraftRecode ! 🚀
 
