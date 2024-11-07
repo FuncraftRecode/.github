@@ -18,7 +18,7 @@ Contactez en privé sur Discord @shall0wer pour toute suggestion.
 ## Structure du Projet
 
 - **FunBasics**: Contient l'API du projet.
-- **FunServeur**: Serveur fonctionnel via un système de cloud [CloudNet-V3](https://cloudnetservice.eu/)
+- **FunServeur**: Serveur fonctionnel via un système de cloud [TheSimpleCloud]([https://cloudnetservice.eu/](https://github.com/theSimpleCloud/SimpleCloud))
 - à venir...
 
 ## IMPORTANT
